@@ -1,0 +1,5 @@
+numpy
+opencv-python
+albumentations
+scikit-learn
+Pillow
