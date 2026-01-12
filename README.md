@@ -1,10 +1,10 @@
-# 🌿 Federated Learning-Based Groundnut Leaf Disease Detection
+# Federated Learning-Based Groundnut Leaf Disease Detection
 
 This project aims to **detect diseases in groundnut plant leaves** using deep learning and **federated learning** techniques, enabling scalable, privacy-preserving model training across decentralized clients.
 
 ---
 
-## 🚀 Objective
+## Objective
 
 To develop a **Federated Learning system** using **TensorFlow Federated** and the **FedAvg algorithm** to identify groundnut leaf diseases such as:
 
@@ -20,7 +20,7 @@ To develop a **Federated Learning system** using **TensorFlow Federated** and th
 
 ---
 
-## 📚 Dataset
+## Dataset
 
 - **Kaggle Groundnut Leaf Dataset**
 - **Mendeley Groundnut Leaf Dataset**
@@ -35,7 +35,7 @@ To balance client datasets:
 
 ---
 
-## 🧪 Models Used
+## Models Used
 
 - `MobileNet` – Efficient and accurate
 - `NasNet Mobile` – Lightweight, mobile-friendly
@@ -43,7 +43,7 @@ To balance client datasets:
 
 ---
 
-## 🏗️ System Design
+## System Design
 
 - 3 Federated Clients:
   - **Client 1 & 2**: Kaggle dataset (split)
@@ -53,7 +53,7 @@ To balance client datasets:
 
 ---
 
-## ⚙️ Tools & Libraries
+## Tools & Libraries
 
 - Python  
 - TensorFlow Federated  
@@ -64,7 +64,7 @@ To balance client datasets:
 
 ---
 
-## 📈 Future Work
+## Future Work
 
 - Add real-world groundnut leaf images from fields
 - Experiment with advanced deep learning architectures
@@ -74,4 +74,4 @@ To balance client datasets:
 
 ---
 
-> ⚡ This project supports privacy-friendly and distributed machine learning in the agriculture domain.
+> This project supports privacy-friendly and distributed machine learning in the agriculture domain.
